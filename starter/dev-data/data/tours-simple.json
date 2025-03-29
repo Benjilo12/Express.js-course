@@ -211,5 +211,12 @@
     "name": "Test Tour",
     "duration": 10,
     "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "name": "Test Tour",
+    "duration": 10,
+    "difficulty": "easy",
+    "price": 100
   }
 ]
